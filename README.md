@@ -1,2 +1,2 @@
-# ICSSP-25
+# ICISSP-25
 Assessing the Effectiveness of an LLM-Based Permission Model for Android - Dataset
